@@ -62,4 +62,4 @@ mcp-config.json
 *.config.json
 
 # Documentation (keep README files)
-# *.md
+*.md
